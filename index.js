@@ -62,22 +62,6 @@ if (count[3]==count[5] && count[5]==count[7] && count[3] !=""){
 
 
 
-// function insert(id) {
-//     var play = document.getElementById('id')
-//     if (play.innerText == '' || play.innerText == 'O' ){
-//         play.innerText = 'X'
-//     }else if (play. innerText =='X') {
-//         play.innerText='O';
-   
-//     console.log(play.innerText);
-// } 
-//     else 
-//     {
-
-//         alert("no player");
-//     }
-//     winer();
-// }
 
 
 
