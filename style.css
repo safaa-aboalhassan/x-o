@@ -1,0 +1,33 @@
+
+.cover{
+    background-color: rgb(210, 14, 105);
+    width:200px;
+    height:200px ;
+    text-align: center;
+    margin: auto;
+    padding: 12px 10px;
+    border-radius: 20px;
+    box-shadow: 3px 2px 3px;
+
+   
+}
+
+
+.flex{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 10px;
+
+ }
+
+.circle{
+width: 30%;
+height: 20%;
+background-color: white;
+border-radius: 50px;
+color: black;
+font-size: large;
+
+ }
+ 
